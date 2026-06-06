@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Garvit Malik 👋
 
-<!--
-**garvitmalikdev/garvitmalikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience building mobile and web applications using React Native, React, Next.js, Node.js, TypeScript, and JavaScript.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building scalable mobile and web applications
+* Interested in AI-powered products and developer tools
+* Focused on delivering practical, user-centric software
+* Exploring product development and SaaS opportunities
+
+## Tech Stack
+
+**Frontend**
+
+* React
+* Next.js
+* React Native
+* TypeScript
+* JavaScript
+
+**Backend**
+
+* Node.js
+
+## Current Focus
+
+* Mobile Application Development
+* AI-Powered Products
+* Developer Productivity Tools
+* SaaS Applications
+
+## Featured Projects
+
+Projects will be added here as they are published.
+
+---
+
+Open to collaborating on interesting products, engineering challenges, and software projects.
